@@ -1,0 +1,19 @@
+{
+  "name": "site-char-jiroji",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "JIROJI.EXE: a virtual mascot living in a 1998 computer. Patch notes, save files and modem songs.",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^7.4.5"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
